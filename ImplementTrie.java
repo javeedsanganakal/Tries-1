@@ -1,4 +1,4 @@
-//TC = O(1)
+//TC = O(n*l)  
 
 class Trie {
     
